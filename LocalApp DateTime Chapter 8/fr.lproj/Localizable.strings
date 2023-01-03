@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  LocalApp DateTime Chapter 8
+
+  Created by Wallace Wang on 10/24/21.
+  
+*/
+"greeting-label %@" = "Bonjour, %@";
+"%lld button-label" = " %lld Tape moi";
+"placeholder-label" = "Écrivez ici";
+"pi-label %lf" = "Valeur de pi = %lf";
+

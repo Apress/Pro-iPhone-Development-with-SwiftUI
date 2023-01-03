@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  LocalApp LocalizedStringKey Chapter 8
+
+  Created by Wallace Wang on 10/20/21.
+  
+*/
+"greeting-label" = "Hola Mundo";
+"button-label" = "Tocame";
+"placeholder-label" = "Escriba aquí";
